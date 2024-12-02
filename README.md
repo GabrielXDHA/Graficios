@@ -1,2 +1,2 @@
-# Graficios
+# Graficos
 Criando Graficios
